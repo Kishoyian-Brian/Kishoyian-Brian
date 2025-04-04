@@ -1,7 +1,7 @@
 # Hi, I’m Kishoyan Brian Mwangi  
 
 **Profile views**  
-[Your view count]  
+[124]  
 
 **valentine**  
 [Your unique stat, e.g., "Coding hours"]  
