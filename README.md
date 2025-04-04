@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I’m Kishoyan Brian Mwangi  
 
-<!--
-**Kishoyan-Brian033/Kishoyan-Brian033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Profile views**  
+[Your view count]  
 
-Here are some ideas to get you started:
+**valentine**  
+[Your unique stat, e.g., "Coding hours"]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Reach me through my email: [brianmwasbayo@gmail.com]  
+- Know about my experiences on [LinkedIn](https://linkedin.com/in/brian-mwangi-a081a1330)  
+- Fun fact: [ "I love open-source!"]  
+- Thank You For Stopping By.  
+- Adios  
+
