@@ -27,7 +27,7 @@
 
 <div align="left">
   <!-- High-Contrast Profile Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishoyan-Brian033&show_icons=true&count_private=true&theme=dark&hide_border=false&bg_color=45,1A1A2E,16213E&title_color=FF9E3F&icon_color=00E0FF&text_color=FFFFFF&custom_title=Brian's%20GitHub%20Stats&card_width=250&border_color=7F5AF0&border_radius=10" height="220" alt="My GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kishoyan-Brian033&show_icons=true&count_private=true&theme=dark&hide_border=false&bg_color=45,1A1A2E,16213E&title_color=FF9E3F&icon_color=00E0FF&text_color=FFFFFF&custom_title=Brian's%20GitHub%20Stats&card_width=200&border_color=7F5AF0&border_radius=10" height="220" alt="My GitHub stats"/>
   
   <!-- Spacer -->
   
