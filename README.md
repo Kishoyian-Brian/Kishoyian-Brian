@@ -46,7 +46,7 @@
 
 ###
 
-<div align="center" style="margin: 20px 0">
+<div align="center" style="margin: 15px 0">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript" title="JavaScript"/>
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3" title="CSS3"/>
