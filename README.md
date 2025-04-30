@@ -3,10 +3,14 @@
 ### 🌟 Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=Kishoyan-Brian033&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
-###  About Me 👨‍🦰
+### TECHSTACK ⚒️
 
---Frontend developer
---U/I Designer
+--Frontend: React, TailwindCSS, TypeScript
+--Backend: Node.js, Express, Appwrite
+--Database: MySQL
+--Authentication: Clerk, JWT
+--AI Engineering: Gemini API, OpenAI
+--Other Tools: VS Code, Git, Vercel
 
 ### 📬 Connect With Me
 - ✉️ **Email**: [brianmwasbayo@gmail.com](mailto:brianmwasbayo@gmail.com)  
