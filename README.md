@@ -5,7 +5,7 @@
 
 ### TECHSTACK ⚒️
 
-- Frontend: React, TailwindCSS, TypeScript
+- Frontend: HTML5 ,SCSS,CSS,javascript
 
 - Backend: Node.js, Express, Appwrite
 
