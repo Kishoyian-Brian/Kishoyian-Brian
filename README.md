@@ -3,6 +3,11 @@
 ### 🌟 Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=Kishoyan-Brian033&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
+###  About Me 👨‍🦰
+
+--Frontend developer
+--U/I Designer
+
 ### 📬 Connect With Me
 - ✉️ **Email**: [brianmwasbayo@gmail.com](mailto:brianmwasbayo@gmail.com)  
 - 💼 **LinkedIn**: [Brian Mwangi](https://www.linkedin.com/in/brian-mwangi-a081a1330/)  
