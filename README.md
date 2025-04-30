@@ -6,10 +6,15 @@
 ### TECHSTACK ⚒️
 
 --Frontend: React, TailwindCSS, TypeScript
+
 --Backend: Node.js, Express, Appwrite
+
 --Database: MySQL
+
 --Authentication: Clerk, JWT
+
 --AI Engineering: Gemini API, OpenAI
+
 --Other Tools: VS Code, Git, Vercel
 
 ### 📬 Connect With Me
