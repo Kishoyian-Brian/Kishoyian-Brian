@@ -7,7 +7,7 @@
 
 - Frontend: HTML5 ,SCSS,CSS,javascript
 
-- Backend: Node.js, Express, Appwrite
+- Backend: Php
 
 - Database: MySQL
 
