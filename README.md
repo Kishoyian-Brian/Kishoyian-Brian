@@ -5,17 +5,15 @@
 
 ### TECHSTACK ⚒️
 
-- Frontend: HTML5 ,SCSS,CSS,javascript
+- Frontend: Typescript,Javascript,HTML5,Scss,Css
 
-- Backend: Php
+- Backend: Php,Nest.js
 
-- Database: MySQL
+- Database: MySQL, Postgresql
 
 - Authentication: Clerk, JWT
 
-- AI Engineering: Gemini API, OpenAI
-
-- Other Tools: VS Code, Git, Vercel
+- Other Tools: VS Code, Git, Vercel,Azure data studio
 
 ### 📬 Connect With Me
 - ✉️ **Email**: [brianmwasbayo@gmail.com](mailto:brianmwasbayo@gmail.com)  
@@ -59,7 +57,7 @@
 
 ### 🛠️ Tech Stack
 <div align="center" style="margin: 15px 0">
-  <img src="https://skillicons.dev/icons?i=js,html,css,sass,php,react,nodejs,git,github,vscode" height="40" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,html,typescript,css,sass,php,react,nodejs,git,github,vscode" height="40" alt="Tech Stack"/>
 </div>
 
 <br clear="both">
