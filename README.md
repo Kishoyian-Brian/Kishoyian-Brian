@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Brian Mwangi and I'm a Web Developer.</h2>
 
 ### 🌟 Profile Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=Kishoyan-Brian033&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=Kishoyan-Brian&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 ### TECHSTACK ⚒️
 
@@ -23,14 +23,14 @@
 - � **Let's collaborate** on something amazing  
 
 <div align="left">
-  <a href="mailto:brianmwasbayo@gmail.com">
+  <a href="mailto:kishpyianbrianmwangi.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/brian-mwangi-a081a1330/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
   </a>
   <!-- Dynamic GitHub Profile Views -->
-  <a href="https://github.com/Kishoyan-Brian033?tab=repositories">
+  <a href="https://github.com/Kishoyan-Briantab=repositories">
     <img src="https://komarev.com/ghpvc/?username=Kishoyan-Brian033&label=Profile%20views&color=0e75b6&style=flat" height="30" alt="GitHub Views"/>
   </a>
 </div>
@@ -39,7 +39,7 @@
 
 <div align="left">
   <!-- GitHub Stats Card (Auto-refreshes) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishoyan-Brian033&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400" height="220" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kishoyan-Brian&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400" height="220" alt="GitHub Stats"/>
   
   <!-- Spacer -->
   &nbsp;&nbsp;&nbsp;&nbsp;
