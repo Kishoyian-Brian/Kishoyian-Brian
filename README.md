@@ -57,7 +57,7 @@
 
 ### 🛠️ Tech Stack
 <div align="center" style="margin: 15px 0">
-  <img src="https://skillicons.dev/icons?i=js,html,typescript,css,sass,php,react,nodejs,git,github,vscode" height="40" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,html,typescript,css,sass,php,react,nodejs,git,github,vscode,angular,nestjs,react,vite" height="40" alt="Tech Stack"/>
 </div>
 
 <br clear="both">
