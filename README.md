@@ -45,14 +45,6 @@
 
 ---
 
-<!-- GitHub Streak Stats -->
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kishoyian-Brian&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=DD2727&ring=DD2727" height="200" alt="GitHub Streak"/>
-</div>
-
-
----
-
 ### 🛠️ Tech Stack Icons
 <div align="center" style="margin: 15px 0">
   <img src="https://skillicons.dev/icons?i=js,html,typescript,css,sass,php,react,nodejs,git,github,vscode,angular,nestjs,vite" height="40" alt="Tech Stack"/>
