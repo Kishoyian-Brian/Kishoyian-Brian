@@ -26,7 +26,6 @@
   <a href="https://www.linkedin.com/in/brian-mwangi-a081a1330/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
   </a>
-  <!-- Dynamic GitHub Profile Views -->
   <a href="https://github.com/Kishoyian-Brian?tab=repositories">
     <img src="https://komarev.com/ghpvc/?username=Kishoyian-Brian&label=Profile%20views&color=0e75b6&style=flat" height="30" alt="GitHub Views"/>
   </a>
@@ -36,19 +35,19 @@
 
 <div align="left">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishoyian-Brian&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400" height="220" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kishoyian-Brian&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&cache_seconds=7200" height="200" alt="GitHub Stats"/>
   
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kishoyian-Brian&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400" height="220" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kishoyian-Brian&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=7200" height="200" alt="Top Languages"/>
 </div>
 
 ---
 
 <!-- GitHub Streak Stats -->
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Kishoyian-Brian&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=DD2727&ring=DD2727" height="250" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Kishoyian-Brian&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=DD2727&ring=DD2727" height="200" alt="GitHub Streak"/>
 </div>
 
 ---
