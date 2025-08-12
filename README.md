@@ -47,8 +47,9 @@
 
 <!-- GitHub Streak Stats -->
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Kishoyian-Brian&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=DD2727&ring=DD2727" height="200" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kishoyian-Brian&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=DD2727&ring=DD2727" height="200" alt="GitHub Streak"/>
 </div>
+
 
 ---
 
