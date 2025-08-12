@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Brian Mwangi and I'm a Web Developer.</h2>
+## Hi 👋! My name is Brian Mwangi and I'm a Fullstack Developer.
+
 
 ### 🌟 Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=Kishoyian-Brian&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
@@ -33,19 +34,15 @@
 
 ---
 
-<div align="left">
-  <!-- GitHub Stats Card -->
+<!-- GitHub Stats + Top Languages Side by Side -->
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Kishoyian-Brian&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&cache_seconds=7200" height="200" alt="GitHub Stats"/>
   
-  &nbsp;&nbsp;
-  
-  <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kishoyian-Brian&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=7200" height="200" alt="Top Languages"/>
 </div>
 
 ---
 
-### 🛠️ Tech Stack Icons
 <div align="center" style="margin: 15px 0">
   <img src="https://skillicons.dev/icons?i=js,html,typescript,css,sass,php,react,nodejs,git,github,vscode,angular,nestjs,vite" height="40" alt="Tech Stack"/>
 </div>
