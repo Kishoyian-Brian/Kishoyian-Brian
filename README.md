@@ -6,7 +6,7 @@
 
 ### ⚒️ Tech Stack
 
-- **Frontend:** TypeScript, JavaScript, HTML5, SCSS, CSS  
+- **Frontend:**Angular TypeScript, JavaScript, HTML5, SCSS, CSS  
 - **Backend:** PHP, NestJS  
 - **Database:** MySQL, PostgreSQL  
 - **Authentication:** Clerk, JWT  
