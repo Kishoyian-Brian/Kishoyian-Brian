@@ -6,11 +6,11 @@
 
 ### ⚒️ Tech Stack
 
-- **Frontend:** Angular, TypeScript, JavaScript, HTML5, SCSS, CSS  
-- **Backend:** PHP, NestJS  
-- **Database:** MySQL, PostgreSQL  
-- **Authentication:** Clerk, JWT  
-- **Other Tools:** VS Code, Git, Vercel, Azure Data Studio  
+- **Frontend:** Angular,Nextjs, React, TypeScript, JavaScript, HTML5, SCSS, CSS  
+- **Backend:** NestJS, PHP 
+- **Database:** Prisma ORM with PostgreSQL  
+- **Authentication:** JWT  
+- **Other Tools:** Git, Vercel, Azure Data Studio  
 
 ---
 
