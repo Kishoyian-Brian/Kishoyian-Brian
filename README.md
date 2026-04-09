@@ -25,9 +25,11 @@ I automate everything I can! 🤖
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishoyian-Brian&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&cache_seconds=7200)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishoyian-Brian&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true)](https://github.com/Kishoyian-Brian)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Kishoyian-Brian&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=7200)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishoyian-Brian&layout=compact&langs_count=8&theme=radical&hide_border=true)](https://github.com/Kishoyian-Brian)
+
+<!-- Streak stats removed because service is unreliable -->
 
 </div>
 
