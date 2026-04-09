@@ -29,8 +29,6 @@ I automate everything I can! 🤖
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishoyian-Brian&layout=compact&langs_count=8&theme=radical&hide_border=true)](https://github.com/Kishoyian-Brian)
 
-[![WakaTime Streak](https://streak-stats.demolab.com?user=Kishoyian-Brian&theme=radical&hide_border=true&mode=weekly)](https://wakatime.com/@Kishoyian-Brian)
-
 </div>
 
 ---
