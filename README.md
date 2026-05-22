@@ -10,7 +10,7 @@ Brian Mwangi
 
 $ cat about.txt
 Fullstack Developer
-Building things that matter, one line of code at a time.
+Building solutions, one line of code at a time.
 
 $ ls -la skills/
 Angular    Next.js    React      TypeScript
