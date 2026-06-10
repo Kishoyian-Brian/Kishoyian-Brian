@@ -1,87 +1,103 @@
 <div align="center">
 
-<pre>
- █▄▄ █ █▀▀ █▀█   ▄▀█ █▀▄▀█   Brian Mwangi
- █▄█ █ █▄▄ █▀▀   █▀█ █ ▀ █   fullstack · shipped · automated
-</pre>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=A855F7&center=true&vCenter=true&width=620&lines=Angular+%C2%B7+React+%C2%B7+ASP.NET+Core;Club+POS+%26+Restaurant+POS+in+production;Kenya+%F0%9F%87%B0%F0%9F%87%AA+%C2%B7+Open+to+opportunities)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=160&section=header&text=Brian%20Mwangi&fontSize=42&fontColor=A855F7&animation=twinkling&fontAlignY=36&desc=Fullstack%20Engineer&descAlignY=58&descSize=18" alt="Brian Mwangi" />
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kishoyian-Brian&color=A855F7&style=flat-square)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1100&color=8b949e&center=true&vCenter=true&width=700&lines=Kenya+%F0%9F%87%B0%F0%9F%87%AA+%C2%B7+Open+to+opportunities;ASP.NET+Core+8+%C2%B7+Angular+%C2%B7+React+%C2%B7+PostgreSQL;Clean+architecture+%C2%B7+shipped+products+%C2%B7+automated+workflows)](https://git.io/typing-svg)
+
+<br>
+
+[![Fullstack](https://img.shields.io/badge/Role-Fullstack_Engineer-A855F7?style=flat-square&labelColor=161b22)](https://github.com/Kishoyian-Brian)
+[![Location](https://img.shields.io/badge/Location-Nairobi,Kenya-30363d?style=flat-square&labelColor=161b22)](https://github.com/Kishoyian-Brian)
+
+<br>
+
+*I design, build, and ship production systems — from API design and data models to deployed UIs.*
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kishoyian-Brian&color=6e7681&style=flat-square)
 
 </div>
 
 <br>
 
-```bash
-$ dmesg | grep -i brian
-[    0.001] developer: loading profile v3.0.26
-[    0.014] location: Nairobi region, Kenya 🇰🇪
-[    0.031] mode: production-first · clean architecture · zero tutorial fluff
-[    0.052] automation daemon: active 🤖
-[    0.089] status: accepting freelance · full-time · technical collabs
+## Overview
+
+Fullstack developer focused on **business-critical software** — venue operations, point-of-sale, and real-time workflows. I work across the stack with a bias toward **clean architecture**, clear boundaries, and code that teams can own long after launch.
+
+| | |
+|:---|:---|
+| **Currently** | Club POS — ASP.NET Core 8, React, PostgreSQL, SignalR |
+| **Also building** | Angular Restaurant POS — multi-role flows (waiter, bar, kitchen, manager) |
+| **Availability** | Open to freelance, full-time, and technical collaborations |
+| **Response time** | Within 24 hours |
+
+<br>
+
+## How I work
+
+```md
+# ~/engineering/PRINCIPLES.md
+
+1. Production over prototypes — I ship software used in real operations.
+2. Architecture first — bounded contexts, explicit contracts, sensible defaults.
+3. Automate the repeatable — tooling and CI so the team moves faster, not just me.
+4. Own the full path — design, implementation, data layer, and deployment.
 ```
 
 <br>
 
-```bash
-$ neofetch --config ~/dotfiles/profile.conf
+## Systems I build
 
-       ▄▄▄▄▄▄▄                    brian@dev
-      █ ▄▄▄ █                   ─────────────────────────
-      █ ███ █   OS       Fullstack Developer
-      █ ▀▀▀ █   Host     brian-dev.local
-       ▀▀▀▀▀▀    Locale   Kenya 🇰🇪
-                   Focus    Real products for real businesses
-                   Ship     Club POS · Restaurant POS
-                   Philosophy  Ship it like you mean it.
+```mermaid
+graph TB
+    subgraph Clients
+        R[React SPA]
+        A[Angular SPA]
+    end
+
+    subgraph Application
+        API[ASP.NET Core 8 API]
+        SR[SignalR — real-time events]
+        N[NestJS services]
+    end
+
+    subgraph Data
+        PG[(PostgreSQL)]
+        RD[(Redis)]
+    end
+
+    subgraph Delivery
+        DK[Docker]
+        GIT[Git · CI/CD]
+    end
+
+    R --> API
+    A --> API
+    R --> SR
+    A --> SR
+    API --> PG
+    API --> RD
+    N --> PG
+    API --> DK
 ```
 
 <br>
 
----
+## Expertise
 
-<br>
-
-```bash
-$ cat workspace.toml
-```
-
-```toml
-[workspace]
-name = "brian-stack"
-members = ["frontend", "backend", "infra"]
-
-[workspace.dependencies.frontend]
-angular   = "latest"
-react     = "latest"
-nextjs    = "latest"
-typescript = "latest"
-html      = "stable"
-css       = "stable"
-sass      = "stable"
-vite      = "latest"
-
-[workspace.dependencies.backend]
-dotnet    = "8.x"
-nodejs    = "lts"
-nestjs    = "latest"
-postgresql = "16"
-prisma    = "latest"
-redis     = "latest"
-docker    = "latest"
-git       = "always"
-```
+| Layer | Technologies |
+|:------|:-------------|
+| **Frontend** | Angular · React · Next.js · TypeScript · HTML · CSS · Sass · Vite |
+| **Backend** | ASP.NET Core · Node.js · NestJS · Prisma |
+| **Data** | PostgreSQL · Redis |
+| **Platform** | Docker · Git |
 
 <div align="center">
 
-![Frontend stack](https://skillicons.dev/icons?i=angular,react,nextjs,typescript,html,css,sass,vite)
-
-<br>
-
-![Backend & infra](https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,postgresql,prisma,redis,docker,git)
+![Stack](https://skillicons.dev/icons?i=angular,react,nextjs,typescript,html,css,sass,vite,dotnet,nodejs,nestjs,postgresql,prisma,redis,docker,git)
 
 </div>
 
@@ -90,10 +106,6 @@ git       = "always"
 ---
 
 <br>
-
-```bash
-$ curl -s https://metrics.github.local/brian | jq '.panels[]'
-```
 
 <div align="center">
 
@@ -101,12 +113,12 @@ $ curl -s https://metrics.github.local/brian | jq '.panels[]'
   <tr>
     <td>
       <a href="https://github.com/Kishoyian-Brian">
-        <img src="https://github-readme-stats.vercel.app/api?username=Kishoyian-Brian&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Kishoyian-Brian&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=A855F7&text_color=8b949e" alt="GitHub Stats" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Kishoyian-Brian">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishoyian-Brian&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishoyian-Brian&layout=compact&langs_count=6&theme=transparent&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" alt="Top Languages" />
       </a>
     </td>
   </tr>
@@ -114,11 +126,7 @@ $ curl -s https://metrics.github.local/brian | jq '.panels[]'
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kishoyian-Brian&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-<br><br>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kishoyian-Brian&theme=react&hide_border=true&area=true&color=A855F7&line=A855F7&point=FFFFFF)](https://github.com/Kishoyian-Brian)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kishoyian-Brian&theme=transparent&hide_border=true&background=0d1117&stroke=30363d&ring=A855F7&fire=A855F7&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=6e7681)](https://git.io/streak-stats)
 
 </div>
 
@@ -128,56 +136,14 @@ $ curl -s https://metrics.github.local/brian | jq '.panels[]'
 
 <br>
 
-```bash
-$ docker compose -f ~/projects/stack.yml ps --format table
-```
+## Contact
 
-```
-NAME              STATUS        PORTS     DESCRIPTION
-club-pos          running       443       ASP.NET Core 8 · React · PostgreSQL · SignalR
-restaurant-pos    running       443       Angular POS · KDS · waiter/bar/kitchen/manager
-<!-- TODO: add your 3rd project here -->
-```
+Open to **freelance contracts**, **full-time roles**, and **technical collaborations**.
 
 <div align="center">
 
-[`club-pos`](https://github.com/Kishoyian-Brian) <!-- TODO: add repo link --> · [`restaurant-pos`](https://github.com/Kishoyian-Brian) <!-- TODO: add repo link -->
-
-</div>
-
-<br>
-
----
-
-<br>
-
-```bash
-$ curl -s https://api.brian.dev/contact | jq
-```
-
-```json
-{
-  "open_to": ["freelance contracts", "full-time roles", "technical collabs"],
-  "availability": "open to opportunities",
-  "response_time": "within 24 hours",
-  "channels": {
-    "email": "brianmwasbayo@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/brian-mwangi-a081a1330/",
-    "github": "https://github.com/Kishoyian-Brian"
-  }
-}
-```
-
-<br>
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-brianmwasbayo@gmail.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianmwasbayo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian_Mwangi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-mwangi-a081a1330/)
-[![GitHub](https://img.shields.io/badge/GitHub-Kishoyian--Brian-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kishoyian-Brian)
-
-<br><br>
-
-> *"Code is craft. Ship it like you mean it."*
+[![Email](https://img.shields.io/badge/Email-brianmwasbayo@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=30363d)](mailto:brianmwasbayo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian_Mwangi-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=30363d)](https://www.linkedin.com/in/brian-mwangi-a081a1330/)
+[![GitHub](https://img.shields.io/badge/GitHub-Kishoyian--Brian-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=30363d)](https://github.com/Kishoyian-Brian)
 
 </div>
