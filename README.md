@@ -21,7 +21,6 @@ $ dmesg | grep -i brian
 [    0.014] location: Nairobi region, Kenya 🇰🇪
 [    0.031] mode: production-first · clean architecture · zero tutorial fluff
 [    0.052] automation daemon: active 🤖
-[    0.071] toolchain: Cursor + Claude (compile-time multiplier 🚀)
 [    0.089] status: accepting freelance · full-time · technical collabs
 ```
 
