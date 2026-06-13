@@ -27,13 +27,6 @@
 
 Fullstack developer focused on **business-critical software** — venue operations, point-of-sale, and real-time workflows. I work across the stack with a bias toward **clean architecture**, clear boundaries, and code that teams can own long after launch.
 
-| | |
-|:---|:---|
-| **Currently** | Finshark API— ASP.NET Core 8, PostgreSQL, SignalR |
-| **Also building** | Angular Night Club POS — multi-role flows (waiter, bar, kitchen, manager) |
-| **Availability** | Open to freelance, full-time, and technical collaborations |
-| **Response time** | Within 24 hours |
-
 <br>
 
 ## How I work
